@@ -7,7 +7,7 @@
 ---
 ![](https://github-readme-stats.vercel.app/api?username=manashiku&show_icons=true&theme=shadow_red)
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manashiku&hide=javascript,html&theme=shadow_red)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manashiku&hide=javascript,css,html&theme=shadow_red)
 ---
 <!--
 **Manashiku/Manashiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
