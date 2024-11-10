@@ -1,5 +1,14 @@
-## Hi there 👋
-
+---
+![ManaLurk](https://github.com/user-attachments/assets/5da7692c-a8ee-4e14-90e0-9685af2796c7)
+--- 
+### Hey
+- I'm manashiku. Generally referred to as just mana. I'm a graphics programmer and I have a particular interest in reverse engineering game shaders.
+- My go to programs are Unity and MMD (cring) which in both I particularly work with HLSL for both dx9 and dx11 style shaders. 
+---
+![](https://github-readme-stats.vercel.app/api?username=manashiku&show_icons=true&theme=shadow_red)
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manashiku&hide=javascript,html&theme=shadow_red)
+---
 <!--
 **Manashiku/Manashiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
